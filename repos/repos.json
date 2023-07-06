@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "blackshark",
-      "repo": "https://github.com/lolipuru/kernel_xiaomi_blackshark",
-      "branch": "main",
+      "repo": "https://github.com/BlackSharkCode/BlackShark_Kernel_OpenSource.git",
+      "branch": "shark_o",
       "device": "skr-A0",
       "defconfig": "sdm845-perf_defconfig"
     },
