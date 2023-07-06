@@ -7,7 +7,7 @@
       "device": "skr-A0",
       "defconfig": "sdm845-perf_defconfig"
     },
-    "withKernelSU": false,
+    "withKernelSU": true,
     "toolchains": [
       {
         "repo": "https://github.com/kdrag0n/proton-clang",
