@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "blackshark",
-      "repo": "https://github.com/BlackSharkCode/BlackShark_Kernel_OpenSource.git",
-      "branch": "shark_o",
-      "device": "skr-A0",
-      "defconfig": "sdm845-perf_defconfig"
+      "repo": "https://github.com/poriuk/kernel_blackshark_penrose",
+      "branch": "thirteen",
+      "device": "penrose",
+      "defconfig": "penrose_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
