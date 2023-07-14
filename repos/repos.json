@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "blackshark",
-      "repo": "https://github.com/poriuk/kernel_blackshark_penrose",
+      "repo": "https://github.com/franciiscodev/kernel_blackshark_penrose",
       "branch": "thirteen",
       "device": "penrose",
       "defconfig": "penrose_defconfig"
