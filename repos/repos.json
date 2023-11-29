@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "blackshark",
-      "repo": "https://github.com/franciiscodev/kernel_blackshark_penrose",
+      "name": "Park_ksu",
+      "repo": "https://github.com/Franciiscodev/pixel_experience_kernel_xiaomi_sm8250_kernelSU",
       "branch": "thirteen",
-      "device": "penrose",
-      "defconfig": "penrose_defconfig"
+      "device": "munch",
+      "defconfig": "munch_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
