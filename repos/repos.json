@@ -1,9 +1,9 @@
 [
   {
     "kernelSource": {
-      "name": "Park_ksu",
+      "name": "kernel_xiaomi_sm8250",
       "repo": "https://github.com/Jackxzj/kernel_xiaomi_sm8250",
-      "branch": "main",
+      "branch": "thirteen",
       "device": "munch",
       "defconfig": "vendor/munch_defconfig"
     },
