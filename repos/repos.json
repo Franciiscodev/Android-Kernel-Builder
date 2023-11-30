@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "Park_ksu",
-      "repo": "https://github.com/Franciiscodev/kernel_xiaomi_sm8250",
+      "repo": "https://github.com/Franciiscodev/micode-munch-s-oss",
       "branch": "thirteen",
       "device": "munch",
       "defconfig": "munch_defconfig"
